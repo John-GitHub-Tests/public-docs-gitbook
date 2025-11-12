@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [GitBook Documentation](README.md)
+* [Onboarding Documentation](README.md)
 
 ## Creating Content
 
@@ -55,4 +55,3 @@
 * [Merge rules](collaboration/merge-rules.md)
 * [Comments](collaboration/comments.md)
 * [Notifications](collaboration/notifications.md)
-
