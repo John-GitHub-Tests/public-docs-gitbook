@@ -7,8 +7,6 @@ icon: file-pdf
 
 ### Allow readers to export a PDF version of your published content
 
-{% include "../.gitbook/includes/premium-and-ultimate-hint.md" %}
-
 To enable or disable PDF export for visitors to your [published docs site](broken-reference/), open the docs site’s dashboard, open the **Customization** tab, and navigate to **Configure → Page actions**. From there, you can toggle **Export as PDF** on or off.
 
 This setting determines whether or not **readers of your published content can download it in PDF format**. This feature is only available for **Premium and Ultimate sites**.

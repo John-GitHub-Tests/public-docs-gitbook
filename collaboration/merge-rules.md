@@ -5,13 +5,11 @@ icon: file-shield
 
 # Merge rules
 
-{% include "../.gitbook/includes/pro-and-enterprise-hint.md" %}
-
 Merge rules allow you to define requirements that must be met before change requests can be merged, such as needing a review from a specific user, or requiring a subject or description for the change request.
 
 These rules help maintain content quality and ensure proper review processes across your documentation workflow.
 
-When you have merge rules configured, they’ll automatically evaluate change requests before they can be merged. If a rule isn’t satisfied, the merge will be blocked until the requirements are met.&#x20;
+When you have merge rules configured, they’ll automatically evaluate change requests before they can be merged. If a rule isn’t satisfied, the merge will be blocked until the requirements are met.
 
 This provides an automated way to enforce your team’s collaboration and review standards.
 
@@ -23,7 +21,7 @@ You can configure merge rules at different levels to match your team’s workflo
 
 Organizations can set default merge rules that all spaces inherit. This provides consistency across multiple spaces while still allowing individual spaces to customize their rules as needed.
 
-To configure merge rules for your organization, open the organization menu  at the top of the sidebar and choose **Settings** <picture><source srcset="../.gitbook/assets/settings_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/settings_icon_light.svg" alt=""></picture>. In the Settings screen, select **Merge rules** under the **Organization** section of the sidebar. Here you can specify merge rules for your entire organization.
+To configure merge rules for your organization, open the organization menu at the top of the sidebar and choose **Settings** <picture><source srcset="../.gitbook/assets/settings_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/settings_icon_light.svg" alt=""></picture>. In the Settings screen, select **Merge rules** under the **Organization** section of the sidebar. Here you can specify merge rules for your entire organization.
 
 Choose between unrestricted merging, or select from the list of presets to apply to change requests across your entire organization.
 
