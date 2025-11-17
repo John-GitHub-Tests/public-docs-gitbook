@@ -7,7 +7,7 @@ description: Organize your spaces into folders.
 Collections are a way to group spaces together to make it easier for you to organize your content. With collections, you can:
 
 * organize your content by similar topics or ideas
-* manage space [permissions](../../account-management/member-management/permissions-and-inheritance.md) at scale by allowing you to override the organization-level defaults.
+* manage space permissions at scale by allowing you to override the organization-level defaults.
 
 ### Create a collection
 
@@ -17,7 +17,7 @@ Click the **+** button next to the **Spaces** header in the sidebar to create a 
 
 You can move a collection by opening the **Actions menu** <picture><source srcset="../../.gitbook/assets/actions_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions_icon_light.svg" alt="The Actions menu icon in GitBook"></picture>, selecting **Move collection to…** and choosing a destination. Alternatively, you can drag and drop collections in the sidebar to move or reorder them.\
 \
-You can move collections into other collections — or even to other organizations, if you have an [admin role](../../account-management/member-management/roles.md) in both.
+You can move collections into other collections — or even to other organizations, if you have an admin role in both.
 
 ### Nested collections
 

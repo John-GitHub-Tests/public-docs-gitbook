@@ -12,7 +12,7 @@ A space is a project that lets you work on a collection of related pages. They a
 
 Click the **+** button next to the **Spaces** header in the sidebar and choose **New space** to create a new space. You can also create a new space inside a [collection](collection.md).
 
-You can edit a space’s name by hovering over the name in the [space header](../../resources/gitbook-ui/#space-header).
+You can edit a space’s name by hovering over the name in the space header.
 
 ### Duplicate a space
 
@@ -24,7 +24,7 @@ Duplicating a space will create a copy of the source space, in the same location
 
 You can move a space by opening the space’s **Action menu** <picture><source srcset="../../.gitbook/assets/actions_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions_icon_light.svg" alt="The Actions menu icon in GitBook"></picture> in the sidebar, selecting **Move space to…** and choosing a destination. Alternatively, you can drag and drop spaces in the sidebar to move or reorder them.\
 \
-You can move spaces between collections within the same organization, as long as you have an [admin role](../../account-management/member-management/roles.md).
+You can move spaces between collections within the same organization, as long as you have an admin role.
 
 ### Delete a space
 

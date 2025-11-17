@@ -102,7 +102,7 @@ To insert an absolute link:
 4. Hit `Enter`.
 
 {% hint style="info" %}
-#### Why don't external links open in a new tab?
+**Why don't external links open in a new tab?**
 
 When you add a link to an external site in your docs, it will open in the same tab.
 
@@ -160,7 +160,7 @@ Buttons have both primary and secondary styles. Here are a couple of examples:
 
 ### Icons
 
-Icons allow you to add extra visual indications to your site. You can add them inline to paragraphs, inside a card, or anywhere else you need to add some flair. They will use the visual style defined in your [customization settings](../../publishing-documentation/customization/icons-colors-and-themes.md).
+Icons allow you to add extra visual indications to your site. You can add them inline to paragraphs, inside a card, or anywhere else you need to add some flair. They will use the visual style defined in your [customization settings](https://gitbook.com/docs/publishing-documentation/customization).
 
 <i class="fa-facebook">:facebook:</i> <i class="fa-github">:github:</i> <i class="fa-x-twitter">:x-twitter:</i> <i class="fa-instagram">:instagram:</i>
 

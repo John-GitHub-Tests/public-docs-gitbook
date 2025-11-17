@@ -15,7 +15,7 @@ GitBook supports live collaboration, meaning you’ll be able to work on the sam
 
 ### Toggling live edit mode
 
-You can toggle live edit mode in a space by selecting **Lock live edits** or **Unlock live edits** from the [space header’s](../resources/gitbook-ui/#space-header) **Actions menu** <picture><source srcset="../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture>.
+You can toggle live edit mode in a space by selecting **Lock live edits** or **Unlock live edits** from the space header’s **Actions menu** <picture><source srcset="../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture>.
 
 When a space is in **Live edits** mode, the space header will show the **Editor** tab. When it is in **Locked live edits** mode, the space header will show a **Read-only** tab. When the Read-only tab appears in the space header, you will need to open a change request to edit the content of the page, or unlock live edits.
 
@@ -24,8 +24,8 @@ When a space is in **Live edits** mode, the space header will show the **Editor*
 You cannot unlock live editing if:
 
 1. a space is published with the **In collection**, **Public**, or **Unlisted** visibility option.
-2. a space has [GitHub or GitLab Sync](../getting-started/git-sync/) enabled.
+2. a space has GitHub or GitLab Sync enabled.
 
 {% hint style="info" %}
-Only [administrators and creators](../account-management/member-management/roles.md) can lock or unlock live edits.
+Only administrators and creators can lock or unlock live edits.
 {% endhint %}

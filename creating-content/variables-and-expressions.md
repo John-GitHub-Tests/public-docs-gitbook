@@ -5,9 +5,9 @@ icon: icons
 
 # Variables and expressions
 
-With variables you can create reusable text that can be conditionally referenced in [expressions](formatting/inline.md#expressions) and [conditions for adaptive content](../publishing-documentation/adaptive-content/adapting-your-content.md#working-with-the-condition-editor).&#x20;
+With variables you can create reusable text that can be conditionally referenced in [expressions](formatting/inline.md#expressions) and conditions for adaptive content.
 
-If you repeat the same name, phrase or version number multiple times within your content, you can create a **variable** to help keep all those instances in sync and accurate — which is useful if you ever need to update them, or they’re complex and often mistyped.
+If you repeat the same name, phrase or version number multiple times within your content, you can create a **variable** to help keep all those instances in sync and accurate — which is useful if you ever need to update them, or they’re complex and often mistyped.
 
 You can create variables that are scoped to a single page, or a single space.
 
@@ -29,9 +29,9 @@ Variable names must start with a letter, and can contain letters, numbers and un
 
 ### Use variables in your content
 
-Variables can be referenced and used within an [expression](formatting/inline.md#expressions) — which you can insert into your content inline. After inserting an expression, double click it to open the expression editor.
+Variables can be referenced and used within an [expression](formatting/inline.md#expressions) — which you can insert into your content inline. After inserting an expression, double click it to open the expression editor.
 
-Variables defined under your page are accessible under the `page.vars` object. Similarly, variables defined across your entire space are accessible under the `space.vars` object.&#x20;
+Variables defined under your page are accessible under the `page.vars` object. Similarly, variables defined across your entire space are accessible under the `space.vars` object.
 
 <figure><img src="../.gitbook/assets/insert-variables-expression.jpg" alt="A GitBook screenshot showing an expression block within the editor. The expression editor is open below it and the ‘space.vars.latest_version’ variable has been selected"><figcaption><p>You can add variables to your content within expresions. The expression editor offers autocomplete options to help you find the variable you need.</p></figcaption></figure>
 

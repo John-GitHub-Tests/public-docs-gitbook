@@ -1,16 +1,16 @@
 # Conditional content
 
-Conditional content blocks let you control who can see a given block of content on your page based on user data and variables. These variables can be passed in via cookies, feature flags, authenticated access, or URL parameters.&#x20;
+Conditional content blocks let you control who can see a given block of content on your page based on user data and variables. These variables can be passed in via cookies, feature flags, authenticated access, or URL parameters.
 
 ### Create conditional content
 
-To add a conditional block, begin a new line in the editor, type <kbd>/</kbd>, then select  <picture><source srcset="../../.gitbook/assets/page-condition - dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/page-condition.svg" alt="The Page condition icon in GitBook"></picture> **Conditional content**.&#x20;
+To add a conditional block, begin a new line in the editor, type <kbd>/</kbd>, then select <picture><source srcset="../../.gitbook/assets/page-condition - dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/page-condition.svg" alt="The Page condition icon in GitBook"></picture> **Conditional content**.
 
 After inserting the block, click the red condition badge in the top right of the block.
 
-Clicking this will allow you to add a condition through the [condition editor](../../publishing-documentation/adaptive-content/adapting-your-content.md#working-with-the-condition-editor). You’ll be able to write your condition as an [expression](https://gitbook.com/docs/creating-content/variables-and-expressions) that will run against data defined in your site. You can reference data from [variables](../variables-and-expressions.md), or data coming from visitors through their [claims](../../publishing-documentation/adaptive-content/enabling-adaptive-content/#set-your-visitor-schema).
+Clicking this will allow you to add a condition through the condition editor. You’ll be able to write your condition as an expression that will run against data defined in your site. You can reference data from variables, or data coming from visitors through their claims.
 
-See [adaptive content](../../publishing-documentation/adaptive-content/) for more details.
+See adaptive content for more details.
 
 ### Example
 

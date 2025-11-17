@@ -13,11 +13,11 @@ In the Version history of a space, you can see a list of all the actions that ch
 
 * When someone made [live edits](../collaboration/live-edits.md) to the space.
 * When someone merged a [change request](../collaboration/change-requests.md).
-* When someone performed a [Git Sync](../getting-started/git-sync/) operation.
+* When someone performed a Git Sync operation.
 
 ### View historical versions of content
 
-To view past versions of your content and see the changes that were made, click the **Version history** <picture><source srcset="../.gitbook/assets/history_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/history_icon_light.svg" alt="The Version history icon in GitBook"></picture> button in the [space header](../resources/gitbook-ui/#space-header), or open the **Actions menu** <picture><source srcset="../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture> next to the space or change request title and choose **Version history**.
+To view past versions of your content and see the changes that were made, click the **Version history** <picture><source srcset="../.gitbook/assets/history_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/history_icon_light.svg" alt="The Version history icon in GitBook"></picture> button in the space header, or open the **Actions menu** <picture><source srcset="../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture> next to the space or change request title and choose **Version history**.
 
 Click on any item in the list to see how your content looked at the point this change was made. This is very similar to how you view [change requests](../collaboration/change-requests.md).
 

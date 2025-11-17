@@ -6,11 +6,11 @@ description: "Add pages, page groups or external links —\_and learn about the 
 
 A page is the place where you can add, edit and embed content. Pages always live inside a [space](space.md), allowing you to group related content and create different sections for the topics or areas you’re covering.
 
-When publishing your documentation, each space will be its own [docs site](../../publishing-documentation/publish-a-docs-site/) or [site section](../../publishing-documentation/site-structure/site-sections.md), and the pages inside the space will all appear on that site.
+When publishing your documentation, each space will be its own docs site or site section, and the pages inside the space will all appear on that site.
 
 ### Table of contents
 
-You can create as many pages as you need in a space. They’re all visible on the left sidebar of your screen in your space’s [table of contents](../../resources/gitbook-ui/#table-of-contents). The table of content will appear in the same place when you publish your space, unless [you choose to hide it](page.md#page-options).
+You can create as many pages as you need in a space. They’re all visible on the left sidebar of your screen in your space’s table of contents. The table of content will appear in the same place when you publish your space, unless [you choose to hide it](page.md#page-options).
 
 {% hint style="info" %}
 ### Docs site landing page
@@ -29,7 +29,7 @@ When in [live edit](../../collaboration/live-edits.md) mode or in a [change requ
 {% hint style="warning" %}
 If [live edits](../../collaboration/live-edits.md) are disabled for your space, you’ll need to create or edit a [change request](../../collaboration/change-requests.md). Once you’re in a change request, the **New page** button (which allows you to create pages, page groups and links) will be available in the table of contents.
 
-Alternatively, you may not have the correct [permissions](../../account-management/member-management/permissions-and-inheritance.md) to edit a page.
+Alternatively, you may not have the correct permissions to edit a page.
 {% endhint %}
 
 ### Organizing your content

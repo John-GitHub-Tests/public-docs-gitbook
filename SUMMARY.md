@@ -43,7 +43,6 @@
 * [Reusable content](creating-content/reusable-content.md)
 * [Searching internal content](creating-content/searching-your-content/README.md)
 * [Version control](creating-content/version-control.md)
-* [Translations](creating-content/translations.md)
 
 ## Collaboration
 

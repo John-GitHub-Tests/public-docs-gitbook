@@ -6,7 +6,7 @@ description: Add heading blocks to a page to organize your content and improve S
 
 Headings help give your documents structure — and using keywords in headings will also help search engines understand that structure, which can help your page rank higher in search results.
 
-GitBook offers three levels of headings. Heading levels 1 (H1) and 2 (H2) will appear in the [page outline](../../resources/gitbook-ui/#page-outline).
+GitBook offers three levels of headings. Heading levels 1 (H1) and 2 (H2) will appear in the page outline.
 
 ### Anchor links
 
@@ -32,7 +32,7 @@ GitBook generates SEO optimized pages, meaning page titles in GitBook are automa
 # I'm a page title
 ```
 
-This means that if you [sync your content with Git](../../getting-started/git-sync/), page headers added through the editor will be represented as one level lower:
+This means that if you sync your content with Git, page headers added through the editor will be represented as one level lower:
 
 {% code overflow="wrap" %}
 ```markdown
@@ -49,4 +49,3 @@ This means that if you [sync your content with Git](../../getting-started/git-sy
 ### My heading 2
 
 #### My heading 3
-

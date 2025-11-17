@@ -7,7 +7,7 @@ icon: file-pdf
 
 ### Allow readers to export a PDF version of your published content
 
-To enable or disable PDF export for visitors to your [published docs site](broken-reference/), open the docs site’s dashboard, open the **Customization** tab, and navigate to **Configure → Page actions**. From there, you can toggle **Export as PDF** on or off.
+To enable or disable PDF export for visitors to your published docs site, open the docs site’s dashboard, open the **Customization** tab, and navigate to **Configure → Page actions**. From there, you can toggle **Export as PDF** on or off.
 
 This setting determines whether or not **readers of your published content can download it in PDF format**. This feature is only available for **Premium and Ultimate sites**.
 
@@ -21,7 +21,7 @@ Note that links across spaces are not currently supported when exporting interna
 
 #### Export an individual page
 
-1.  Open the page you want to export, then open the page’s [Actions menu](../resources/gitbook-ui/#the-actions-menu)&#x20;
+1.  Open the page you want to export, then open the page’s Actions menu&#x20;
 
     <picture><source srcset="../.gitbook/assets/actions_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/actions_icon_light.svg" alt="The Actions menu icon in GitBook"></picture>
 
@@ -40,7 +40,7 @@ Note that links across spaces are not currently supported when exporting interna
 
     <picture><source srcset="../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture>
 
-    &#x20;in the [space header](../resources/gitbook-ui/#space-header) and choose **Export as PDF** in the drop-down menu.\
+    &#x20;in the space header and choose **Export as PDF** in the drop-down menu.\
     \
     \&#xNAN;_Note: This action is not available within a change request._
 2. Wait for the page to load, then click the **Print or save as PDF** button in the upper right to open your browsers Print menu.
